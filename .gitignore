@@ -16,3 +16,6 @@ data/raw/
 
 # Large embedding files
 embeddings/
+# Generated datasets
+data/processed/
+data/preprocessed/
