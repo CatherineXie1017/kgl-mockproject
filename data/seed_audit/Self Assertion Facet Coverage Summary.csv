@@ -1,0 +1,8 @@
+facet,n_seeds,mean_precision,max_precision,coverage_status
+advance_outcome,5,0.63,1.0,strong
+claim_position,3,0.31666666666666665,0.55,moderate
+defend_self_relevant,2,0.275,0.3,weak
+maintain_position,2,0.625,0.65,moderate
+resist_constraint,4,0.4625,0.75,strong
+commit_intended_action,0,,,missing
+exercise_influence,1,0.1,0.1,weak

@@ -1,0 +1,11 @@
+seed,target_facet,n,construct_yes,facet_yes,sense_correct,focal_actor,boilerplate_yes,construct_precision,facet_precision
+intend,commit_intended_action,20,15,15,20,15,0,0.75,0.75
+ready,commit_intended_action,20,14,14,20,14,1,0.7,0.7
+continue,commit_intended_action,20,14,13,16,14,0,0.7,0.65
+commit,commit_intended_action,20,7,5,16,7,0,0.35,0.25
+pledge,commit_intended_action,20,4,3,20,4,4,0.2,0.15
+mediate,exercise_capability_role,9,5,5,9,5,0,0.5555555555555556,0.5555555555555556
+engage,exercise_capability_role,20,6,6,20,6,0,0.3,0.3
+participate,exercise_capability_role,20,6,6,20,6,0,0.3,0.3
+exercise,exercise_capability_role,20,3,3,19,3,0,0.15,0.15
+lead,exercise_capability_role,20,3,3,10,3,0,0.15,0.15

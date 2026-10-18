@@ -1,0 +1,11 @@
+seed,facet
+commit,commit_intended_action
+intend,commit_intended_action
+ready,commit_intended_action
+continue,commit_intended_action
+pledge,commit_intended_action
+exercise,exercise_capability_role
+participate,exercise_capability_role
+engage,exercise_capability_role
+mediate,exercise_capability_role
+lead,exercise_capability_role

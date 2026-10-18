@@ -1,0 +1,15 @@
+seed,facet,source,final_decision
+urge,advance_outcome,original,keep
+propose,advance_outcome,original,keep
+reject,resist_constraint,original,keep
+advocate,advance_outcome,original,keep
+reaffirm,maintain_position,original,keep
+insist,maintain_position,original,keep
+declare,claim_position,original,keep
+resist,resist_constraint,original,keep
+assert,claim_position,original,theory_anchor
+defend,defend_self_relevant,original,theory_anchor
+self-assertion,construct_label,original,theory_anchor
+intend,commit_intended_action,gap_added,keep
+ready,commit_intended_action,gap_added,keep
+exercise,exercise_capability_role,gap_added,theory_anchor
